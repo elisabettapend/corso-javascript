@@ -1,2 +1,2 @@
-# designofthetimes
-github repository for my webdevelopement studies
+# designofthetimes/corso-javascript
+github repository per il corso di javascript
